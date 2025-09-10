@@ -15,7 +15,4 @@ This project is console-based and menu-driven
 
 ---
 
-## ⚙️ How to Run
-1. Clone the repository :
-   ```bash
-   git clone https://github.com/mohamedelsayed154/Bank-Management-System-CPP.git
+
